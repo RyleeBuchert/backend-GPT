@@ -1,5 +1,4 @@
 # GPT is all you need for the backend
-![Galaxy brain meme (a) Writing a backend (b) hiring a backend engineer (c) Asking ChatGPT for a backend (d) The LLM is the backend](LLM-IS-BACKEND.jpeg)
 
 People have been saying Github Copilot will replace programmers. We think that's wrong. We have all powerful models and we want to restrict them to writing code? All code has bugs!
 
